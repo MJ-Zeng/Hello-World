@@ -1,0 +1,14 @@
+C:\Users\zmj\source\repos\CSharpAdvance\CSharpAdvance\bin\Debug\CSharpAdvance.exe.config
+C:\Users\zmj\source\repos\CSharpAdvance\CSharpAdvance\bin\Debug\CSharpAdvance.exe
+C:\Users\zmj\source\repos\CSharpAdvance\CSharpAdvance\bin\Debug\CSharpAdvance.pdb
+C:\Users\zmj\source\repos\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.csprojAssemblyReference.cache
+C:\Users\zmj\source\repos\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.csproj.CoreCompileInputs.cache
+C:\Users\zmj\source\repos\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.exe
+C:\Users\zmj\source\repos\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.pdb
+D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\bin\Debug\CSharpAdvance.exe.config
+D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\bin\Debug\CSharpAdvance.exe
+D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\bin\Debug\CSharpAdvance.pdb
+D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.csprojAssemblyReference.cache
+D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.csproj.CoreCompileInputs.cache
+D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.exe
+D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.pdb
