@@ -8,6 +8,7 @@ using CSharpAdvance.CH02;
 using CSharpAdvance.CH03;
 using CSharpAdvance.CH04;
 using CSharpAdvance.CH05;
+using CSharpAdvance.CH06;
 
 namespace CSharpAdvance
 {
@@ -78,6 +79,13 @@ namespace CSharpAdvance
             CH0504 cH0504 = new CH0504();
             Console.WriteLine("----------------------多播委托：-------------------------");
             CH0505 cH0505 = new CH0505();
+            #endregion
+
+            #region 06接口
+            Console.WriteLine();
+            Console.WriteLine("----------------------0601什么是接口：------------------------");
+            CH0601 cH0601 = new CH0601();
+
             #endregion
 
             Console.ReadKey();

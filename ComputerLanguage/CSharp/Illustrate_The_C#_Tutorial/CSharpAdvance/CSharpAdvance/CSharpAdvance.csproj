@@ -67,6 +67,10 @@
     <Compile Include="CH05\CH0504.cs" />
     <Compile Include="CH05\CH0505.cs" />
     <Compile Include="CH05\DelegateSort.cs" />
+    <Compile Include="CH06\CH0601.cs" />
+    <Compile Include="CH06\CH0602.cs" />
+    <Compile Include="CH06\CH0603.cs" />
+    <Compile Include="CH06\CH0604.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
