@@ -30,7 +30,7 @@ namespace CSharpAdvance.CH06
             Console.WriteLine(s);
             foreach (var item in mc)
             {
-                Console.WriteLine($"{item}");
+                Console.WriteLine($"{item.TheValue}");
             }
             Console.WriteLine("");
         }

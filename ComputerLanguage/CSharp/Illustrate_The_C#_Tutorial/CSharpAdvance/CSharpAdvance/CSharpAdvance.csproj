@@ -71,6 +71,11 @@
     <Compile Include="CH06\CH0602.cs" />
     <Compile Include="CH06\CH0603.cs" />
     <Compile Include="CH06\CH0604.cs" />
+    <Compile Include="CH06\CH0605.cs" />
+    <Compile Include="CH07\CH0701.cs" />
+    <Compile Include="CH07\CH0702.cs" />
+    <Compile Include="CH07\CH0703.cs" />
+    <Compile Include="CH07\CH0704.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

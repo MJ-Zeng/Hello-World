@@ -9,6 +9,7 @@ using CSharpAdvance.CH03;
 using CSharpAdvance.CH04;
 using CSharpAdvance.CH05;
 using CSharpAdvance.CH06;
+using CSharpAdvance.CH07;
 
 namespace CSharpAdvance
 {
@@ -85,7 +86,27 @@ namespace CSharpAdvance
             Console.WriteLine();
             Console.WriteLine("----------------------0601什么是接口：------------------------");
             CH0601 cH0601 = new CH0601();
+            Console.WriteLine("----------------------0602 IComparable实现sort排序：----------");
+            CH0602 cH0602 = new CH0602();
+            Console.WriteLine("----------------------0603 类引用转接口引用：-----------------");
+            CH0603 cH0603 = new CH0603();
+            Console.WriteLine("----------------------0604 隐式接口实现：---------------------");
+            CH0604 cH0604 = new CH0604();
+            Console.WriteLine("----------------------0605 显示接口实现：---------------------");
+            CH0605 cH0605 = new CH0605();
 
+            #endregion
+
+            #region 类型转换
+            Console.WriteLine();
+            Console.WriteLine("----------------------0701 转换溢出检测：------------------------");
+            CH0701 ch0701 = new CH0701();
+            Console.WriteLine("----------------------0702 引用转换：------------------------");
+            CH0702 ch0702 = new CH0702();
+            Console.WriteLine("----------------------0703 装箱和拆箱：------------------------");
+            CH0703 ch0703 = new CH0703();
+            Console.WriteLine("----------------------0701 is 和 as：------------------------");
+            CH0704 ch0704 = new CH0704();
             #endregion
 
             Console.ReadKey();
