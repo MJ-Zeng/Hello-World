@@ -10,6 +10,8 @@ using CSharpAdvance.CH04;
 using CSharpAdvance.CH05;
 using CSharpAdvance.CH06;
 using CSharpAdvance.CH07;
+using CSharpAdvance.CH08;
+using CSharpAdvance.CH09;
 
 namespace CSharpAdvance
 {
@@ -97,16 +99,38 @@ namespace CSharpAdvance
 
             #endregion
 
-            #region 类型转换
+            #region 07类型转换
             Console.WriteLine();
             Console.WriteLine("----------------------0701 转换溢出检测：------------------------");
             CH0701 ch0701 = new CH0701();
-            Console.WriteLine("----------------------0702 引用转换：------------------------");
+            Console.WriteLine("----------------------0702 引用转换：----------------------------");
             CH0702 ch0702 = new CH0702();
-            Console.WriteLine("----------------------0703 装箱和拆箱：------------------------");
+            Console.WriteLine("----------------------0703 装箱和拆箱：--------------------------");
             CH0703 ch0703 = new CH0703();
-            Console.WriteLine("----------------------0701 is 和 as：------------------------");
+            Console.WriteLine("----------------------0701 is 和 as：---------------------------");
             CH0704 ch0704 = new CH0704();
+            #endregion
+
+            #region 08 泛型
+            Console.WriteLine();
+            Console.WriteLine("----------------------0801 泛型约束：------------------------");
+            CH0801 ch0801 = new CH0801();
+            Console.WriteLine("----------------------0802 泛型方法：------------------------");
+            CH0802 ch0802 = new CH0802();
+            Console.WriteLine("----------------------0803 泛型扩展方法：--------------------");
+            CH0803 ch0803 = new CH0803();
+            Console.WriteLine("----------------------0804 泛型委托：------------------------");
+            CH0804 ch0804 = new CH0804();
+            Console.WriteLine("----------------------0805 逆变和协变：------------------------");
+            CH0805 ch0805 = new CH0805();
+            #endregion
+
+            #region 09 反射和特性
+            Console.WriteLine();
+            Console.WriteLine("----------------------0901 反射和元数据：------------------------");
+            CH0901 ch0901 = new CH0901();
+            Console.WriteLine("----------------------0901 自定义特性：------------------------");
+            CH0902 ch0902 = new CH0902();
             #endregion
 
             Console.ReadKey();
