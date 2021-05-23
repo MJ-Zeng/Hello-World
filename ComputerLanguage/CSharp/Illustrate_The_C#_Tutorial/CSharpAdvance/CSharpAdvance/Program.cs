@@ -12,6 +12,7 @@ using CSharpAdvance.CH06;
 using CSharpAdvance.CH07;
 using CSharpAdvance.CH08;
 using CSharpAdvance.CH09;
+using CSharpAdvance.CH10;
 
 namespace CSharpAdvance
 {
@@ -129,8 +130,16 @@ namespace CSharpAdvance
             Console.WriteLine();
             Console.WriteLine("----------------------0901 反射和元数据：------------------------");
             CH0901 ch0901 = new CH0901();
-            Console.WriteLine("----------------------0901 自定义特性：------------------------");
+            Console.WriteLine("----------------------0901 自定义特性：--------------------------");
             CH0902 ch0902 = new CH0902();
+            #endregion
+
+            #region Lambda和Linq
+            Console.WriteLine();
+            Console.WriteLine("----------------------1001 Lambda表达式：------------------------");
+            CH1001 ch1001 = new CH1001();
+            Console.WriteLine("----------------------1002 Linq：--------------------------------");
+            CH1002 ch1002 = new CH1002();
             #endregion
 
             Console.ReadKey();
