@@ -8,7 +8,7 @@ namespace CSharpAdvance.CH05
 {
     delegate void MyDel(string msg); //定义委托
     /// <summary>
-    /// 委托入门:委托是持有一个或多个方法的对象
+    /// 5.1 委托入门:委托是持有一个或多个方法的对象
     /// </summary>
     class CH0501
     {
