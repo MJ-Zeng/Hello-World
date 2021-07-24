@@ -25,7 +25,7 @@ namespace CSharpAdvance.CH02
         }
     }
     /// <summary>
-    /// 分布类
+    /// 2.6 分布类
     /// </summary>
     class CH0206
     {
