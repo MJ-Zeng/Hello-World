@@ -13,7 +13,7 @@ namespace CSharpAdvance.CH02
     }
 
     /// <summary>
-    /// 对象初始化
+    /// 2.3 对象初始化
     /// </summary>
     class CH0203
     {
