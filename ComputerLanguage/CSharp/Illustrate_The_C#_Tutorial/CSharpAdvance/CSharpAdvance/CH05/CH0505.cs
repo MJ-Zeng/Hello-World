@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CSharpAdvance.CH05
 {
     /// <summary>
-    /// 多播委托
+    /// 5.5 多播委托
     /// </summary>
     class CH0505
     {
