@@ -22,7 +22,7 @@ namespace CSharpAdvance.CH03
     }
 
     /// <summary>
-    /// base:访问基类
+    /// 3.2 base:访问基类
     /// </summary>
     class CH0302
     {
