@@ -20,7 +20,7 @@ namespace CSharpAdvance.CH02
 
     }
     /// <summary>
-    /// 构造函数：实例化时调用
+    /// 2.2 构造函数：实例化时调用
     /// </summary>
     class CH0202
     {
