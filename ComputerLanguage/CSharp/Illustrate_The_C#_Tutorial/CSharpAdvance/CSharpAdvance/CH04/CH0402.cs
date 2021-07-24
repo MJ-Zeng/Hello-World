@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpAdvance.CH04
 {
-    //运算符重载：操作自定义类型的操作数，适用于类和结构类型
+    //4.2 运算符重载：操作自定义类型的操作数，适用于类和结构类型
     class LimitedInt
     {
         const int MaxValue = 100;
