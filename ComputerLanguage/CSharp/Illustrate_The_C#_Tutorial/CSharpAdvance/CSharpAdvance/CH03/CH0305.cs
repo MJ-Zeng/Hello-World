@@ -30,7 +30,7 @@ namespace CSharpAdvance.CH03
         }
     }
     /// <summary>
-    /// 静态扩展方法
+    /// 3.5 静态扩展方法
     /// </summary>
     class CH0305
     {
