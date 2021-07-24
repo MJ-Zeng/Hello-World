@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CSharpAdvance.CH03
 {
     /// <summary>
-    /// 构造函数中的base和this
+    /// 3.4 构造函数中的base和this
     /// </summary>
     class BaseClass
     {
