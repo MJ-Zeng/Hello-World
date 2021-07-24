@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CSharpAdvance.CH05
 {
     /// <summary>
-    /// 委托与冒泡排序
+    /// 5.3 委托与冒泡排序
     /// </summary>
     class CH0503
     {
