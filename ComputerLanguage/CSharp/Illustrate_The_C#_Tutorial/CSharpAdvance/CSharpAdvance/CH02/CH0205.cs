@@ -43,7 +43,7 @@ namespace CSharpAdvance.CH02
         }
     }
     /// <summary>
-    /// 索引器：设置索引，通过索引访问类的字段
+    /// 2.5 索引器：设置索引，通过索引访问类的字段
     /// </summary>
     class CH0205
     {
