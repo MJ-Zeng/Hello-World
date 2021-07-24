@@ -25,7 +25,7 @@ namespace CSharpAdvance.CH03
     }
 
     /// <summary>
-    /// new关键字：屏蔽基类成员
+    /// 3.1 new关键字：屏蔽基类成员
     /// </summary>
     class CH0301
     {
