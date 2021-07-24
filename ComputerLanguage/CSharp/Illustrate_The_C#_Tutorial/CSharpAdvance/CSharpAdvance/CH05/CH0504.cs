@@ -37,7 +37,7 @@ namespace CSharpAdvance.CH05
         }
     }
     /// <summary>
-    /// 泛型委托+Action+Func
+    /// 5.4 泛型委托+Action+Func
     /// </summary>
     class CH0504
     {
