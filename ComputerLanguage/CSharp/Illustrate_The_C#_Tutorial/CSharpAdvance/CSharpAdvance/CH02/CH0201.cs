@@ -17,7 +17,7 @@ namespace CSharpAdvance.CH02
         }
     }
     /// <summary>
-    /// 属性和字段关联:通过属性来扩展字段
+    /// 2.1 属性和字段关联:通过属性来扩展字段
     /// </summary>
     class CH0201
     {
