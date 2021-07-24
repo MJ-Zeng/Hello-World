@@ -16,7 +16,7 @@ namespace CSharpAdvance.CH02
         }
     }
     /// <summary>
-    /// this关键字:用于区分类的成员和本地关键字
+    /// 2.4 this关键字:用于区分类的成员和本地关键字
     /// </summary>
     class CH0204
     {
