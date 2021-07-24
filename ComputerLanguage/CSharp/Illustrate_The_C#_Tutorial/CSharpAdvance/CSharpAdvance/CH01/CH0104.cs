@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CSharpAdvance.CH01
 {
     /// <summary>
-    /// 命名参数：只要显示指定参数的名字，就可以任意顺序调出实参
+    /// 1.4 命名参数：只要显示指定参数的名字，就可以任意顺序调出实参
     /// </summary>
     class CH0104
     {
