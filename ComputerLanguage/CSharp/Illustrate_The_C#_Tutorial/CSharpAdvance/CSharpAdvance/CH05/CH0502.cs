@@ -9,7 +9,7 @@ namespace CSharpAdvance.CH05
     delegate bool IsPass(Student stu);
 
     /// <summary>
-    /// 委托理解：委托的使用增加了代码的灵活性
+    /// 5.2 委托理解：委托的使用增加了代码的灵活性
     /// </summary>
     class CH0502
     {
