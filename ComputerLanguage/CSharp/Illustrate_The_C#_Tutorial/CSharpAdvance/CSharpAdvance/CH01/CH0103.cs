@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CSharpAdvance.CH01
 {
     /// <summary>
-    /// out输出参数
+    /// 1.3 out输出参数
     /// </summary>
     class CH0103
     {
