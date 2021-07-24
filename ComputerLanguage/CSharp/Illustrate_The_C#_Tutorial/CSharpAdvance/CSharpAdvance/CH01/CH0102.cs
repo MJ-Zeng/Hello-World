@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CSharpAdvance.CH01
 {
     /// <summary>
-    /// ref引用参数
+    /// 1.2ref引用参数
     /// </summary>
     class CH0102
     {
