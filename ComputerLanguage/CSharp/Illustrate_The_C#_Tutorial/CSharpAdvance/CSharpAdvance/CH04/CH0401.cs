@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharpAdvance.CH04
 {
-    //用户定义隐式和显式类型转换
+    //4.1 用户定义隐式和显式类型转换
     class LimitedIntOp
     {
         const int MaxValue = 100;
