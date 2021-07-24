@@ -21,7 +21,7 @@ namespace CSharpAdvance.CH03
         }
     }
     /// <summary>
-    /// 派生类转换基类引用
+    /// 3.3 派生类转换基类引用
     /// </summary>
     class CH0303
     {
