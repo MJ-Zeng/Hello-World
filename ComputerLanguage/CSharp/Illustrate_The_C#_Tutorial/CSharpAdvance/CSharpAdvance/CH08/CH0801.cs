@@ -32,7 +32,7 @@ namespace CSharpAdvance.CH08
     }
 
     /// <summary>
-    /// 泛型约束
+    /// 8.1 泛型约束
     /// </summary>
     class CH0801
     {
