@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CSharpAdvance.CH07
 {
     /// <summary>
-    /// 类型转换溢出检测：Checked UnChecked
+    /// 7.1 类型转换溢出检测：Checked UnChecked
     /// </summary>
     class CH0701
     {
