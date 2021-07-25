@@ -29,7 +29,7 @@ namespace CSharpAdvance.CH06
         }
     }
     /// <summary>
-    /// 显式接口实现:限定接口名称，实现接口分离
+    /// 6.5 显式接口实现:限定接口名称，实现接口分离
     /// </summary>
     class CH0605
     {
