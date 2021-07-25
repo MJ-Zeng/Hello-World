@@ -21,7 +21,7 @@ namespace CSharpAdvance.CH06
         }
     }
     /// <summary>
-    /// 接口：Sort排序
+    /// 6.2 接口：Sort排序
     /// </summary>
     class CH0602
     {
