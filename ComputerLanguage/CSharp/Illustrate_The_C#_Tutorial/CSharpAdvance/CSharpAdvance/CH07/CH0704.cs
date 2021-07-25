@@ -23,7 +23,7 @@ namespace CSharpAdvance.CH07
     }
 
     /// <summary>
-    /// is 和 as转换
+    /// 7.4 is 和 as转换
     /// </summary>
     class CH0704
     {
