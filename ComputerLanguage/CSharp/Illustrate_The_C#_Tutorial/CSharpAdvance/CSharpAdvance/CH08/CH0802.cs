@@ -20,7 +20,7 @@ namespace CSharpAdvance.CH08
     }
 
     /// <summary>
-    /// 泛型方法
+    /// 8.2 泛型方法
     /// </summary>
     class CH0802
     {
