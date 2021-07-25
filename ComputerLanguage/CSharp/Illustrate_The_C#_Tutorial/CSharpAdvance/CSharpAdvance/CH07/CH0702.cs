@@ -28,7 +28,7 @@ namespace CSharpAdvance.CH07
         public int Field2;
     }
     /// <summary>
-    /// 引用转换
+    /// 7.2 引用转换
     /// </summary>
     class CH0702
     {
