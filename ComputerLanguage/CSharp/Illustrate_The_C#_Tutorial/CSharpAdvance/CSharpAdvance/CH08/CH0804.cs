@@ -21,7 +21,7 @@ namespace CSharpAdvance.CH08
     }
 
     /// <summary>
-    /// 泛型委托
+    /// 8.4 泛型委托
     /// </summary>
     class CH0804
     {
