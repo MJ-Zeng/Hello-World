@@ -23,7 +23,7 @@ namespace CSharpAdvance.CH06
         }
     }
     /// <summary>
-    /// 实现具有重复成员的接口:实现单个成员满足所有接口
+    /// 6.4 实现具有重复成员的接口:实现单个成员满足所有接口
     /// </summary>
     class CH0604 
     {

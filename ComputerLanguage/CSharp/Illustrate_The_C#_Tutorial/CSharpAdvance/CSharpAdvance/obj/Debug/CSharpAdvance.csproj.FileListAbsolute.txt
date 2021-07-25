@@ -12,3 +12,10 @@ D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CShar
 D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.csproj.CoreCompileInputs.cache
 D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.exe
 D:\GitHub\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.pdb
+D:\GitHub\gitLearn\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\bin\Debug\CSharpAdvance.exe.config
+D:\GitHub\gitLearn\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\bin\Debug\CSharpAdvance.exe
+D:\GitHub\gitLearn\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\bin\Debug\CSharpAdvance.pdb
+D:\GitHub\gitLearn\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.csprojAssemblyReference.cache
+D:\GitHub\gitLearn\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.csproj.CoreCompileInputs.cache
+D:\GitHub\gitLearn\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.exe
+D:\GitHub\gitLearn\ComputerLanguage\CSharp\Illustrate_The_C#_Tutorial\CSharpAdvance\CSharpAdvance\obj\Debug\CSharpAdvance.pdb
