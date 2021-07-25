@@ -27,7 +27,7 @@ namespace CSharpAdvance.CH09
 
     }
     /// <summary>
-    /// 自定义特性
+    /// 9.2 自定义特性
     /// </summary>
     class CH0902
     {
