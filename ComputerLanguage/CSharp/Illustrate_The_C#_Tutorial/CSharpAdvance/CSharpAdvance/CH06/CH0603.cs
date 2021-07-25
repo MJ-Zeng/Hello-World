@@ -19,7 +19,7 @@ namespace CSharpAdvance.CH06
         }
     }
     /// <summary>
-    /// 类引用转接口引用
+    /// 6.3 类引用转接口引用
     /// </summary>
     class CH0603
     {
