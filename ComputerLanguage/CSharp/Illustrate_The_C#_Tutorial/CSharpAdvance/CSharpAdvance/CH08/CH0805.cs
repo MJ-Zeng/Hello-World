@@ -30,7 +30,7 @@ namespace CSharpAdvance.CH08
 
     delegate void FactoryIn<in T>(T t); //逆变
     /// <summary>
-    /// 协变和逆变
+    /// 8.5 协变和逆变
     /// </summary>
     class CH0805
     {
