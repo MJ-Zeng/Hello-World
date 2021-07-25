@@ -43,7 +43,7 @@ namespace CSharpAdvance.CH06
         }
     }
     /// <summary>
-    /// 什么是接口：接口是一组函数成员而不实现他们的函数类型
+    /// 6.1 什么是接口：接口是一组函数成员而不实现他们的函数类型
     /// </summary>
     class CH0601
     {
