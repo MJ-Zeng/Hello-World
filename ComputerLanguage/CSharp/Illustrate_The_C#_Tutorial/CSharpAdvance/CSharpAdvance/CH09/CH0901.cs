@@ -23,7 +23,7 @@ namespace CSharpAdvance.CH09
     }
 
     /// <summary>
-    /// 反射和元数据
+    /// 9.1 反射和元数据
     /// </summary>
     class CH0901
     {
