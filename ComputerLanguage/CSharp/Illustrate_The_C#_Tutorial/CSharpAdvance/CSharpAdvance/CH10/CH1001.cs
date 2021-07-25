@@ -49,7 +49,7 @@ namespace CSharpAdvance.CH10
     }
 
     /// <summary>
-    /// Lambda表达式:本身就是一个匿名方法
+    /// 10.1 Lambda表达式:本身就是一个匿名方法
     /// </summary>
     class CH1001
     {
