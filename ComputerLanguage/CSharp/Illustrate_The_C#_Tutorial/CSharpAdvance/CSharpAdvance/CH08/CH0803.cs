@@ -36,7 +36,7 @@ namespace CSharpAdvance.CH08
     }
 
     /// <summary>
-    /// 泛型扩展方法
+    /// 8.3 泛型扩展方法
     /// </summary>
     class CH0803
     {
