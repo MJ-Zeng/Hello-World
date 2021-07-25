@@ -94,7 +94,7 @@ namespace CSharpAdvance.CH10
     } 
 
     /// <summary>
-    /// 什么是LINQ:集成语言查询的快捷方式
+    /// 10.2 什么是LINQ:集成语言查询的快捷方式
     /// </summary>
     class CH1002
     {
